@@ -1,5 +1,5 @@
 # cifar10-gan
-This project uses a dcgan model to generate similar picturaes to those found in cifar10
+This project uses a dcgan model to generate similar pictures to those found in cifar10
 
 Overall the projects main goal is to experiement on developing different GAN architectures centered around DCGANS. Things like upsampling and the introduction of conditions were introduced to the GANs to enhance and or alter their performance
 
